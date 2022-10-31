@@ -44,3 +44,24 @@ NA
 }
 
 ```
+
+### Decrement Value
+
+- Method: `POST`
+- URI: `api/v1/sample/decrement`
+
+##### REQUEST
+
+```javascript
+NA
+
+```
+
+##### RESPONSE
+
+```javascript
+{
+    "value": -1
+}
+
+```
