@@ -2,7 +2,7 @@
 
 # DOCUMENTATION
 
-### Get Value
+### `Get Value`
 
 - Method: `GET`
 - URI: `api/v1/sample`
@@ -24,7 +24,7 @@ NA
 ```
 
 
-### Increment Value
+### `Increment Value`
 
 - Method: `POST`
 - URI: `api/v1/sample/increment`
@@ -45,7 +45,7 @@ NA
 
 ```
 
-### Decrement Value
+### `Decrement Value`
 
 - Method: `POST`
 - URI: `api/v1/sample/decrement`
